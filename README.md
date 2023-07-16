@@ -1,0 +1,2 @@
+# Queue_Reversal
+Given a Queue Q containing N elements. The task is to reverse the Queue. Your task is to complete the function rev(), that reverses the N elements of the queue.
